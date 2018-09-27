@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrederikJensen.WpfControls.Gui", "FrederikJensen.WpfControls.Gui\FrederikJensen.WpfControls.Gui.csproj", "{33432B21-79FB-425F-8FE4-EB8ED06CF969}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33432B21-79FB-425F-8FE4-EB8ED06CF969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33432B21-79FB-425F-8FE4-EB8ED06CF969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33432B21-79FB-425F-8FE4-EB8ED06CF969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33432B21-79FB-425F-8FE4-EB8ED06CF969}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7BA9D4B-F7E8-4F9D-AF72-847E835CA60B}
+	EndGlobalSection
+EndGlobal
